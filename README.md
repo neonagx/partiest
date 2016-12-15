@@ -9,9 +9,9 @@ Tired of organizing office party through powerpoint?  Use The Partiest.  A MEAN 
 First comes the planning phase where I would write the overall model along with wireframes and ERDs.  Once the project has been initiated, I started setting up all of back end using MEN (Mongo, Express, Node).  I would test if back end works by using Postman and initiate Front-End using Angular.
 
 ### Links to the Sites
-[Github IO](https://neonagx.github.io/partiestfrontend/)
-[Heroku Backend](https://partiest.herokuapp.com/)
-[partiestbackend](https://github.com/neonagx/partiestbackend)
+* [Github IO](https://neonagx.github.io/partiestfrontend/)
+* [Heroku Backend](https://partiest.herokuapp.com/)
+* [partiestbackend](https://github.com/neonagx/partiestbackend)
 
 
 
@@ -38,17 +38,17 @@ First comes the planning phase where I would write the overall model along with 
 
 ### Installation Instructions
 - Back-End
-Create a respository on your local storage.
-Git Clone partiestbackend to the respository and cd into it.
-Initiate npm install to install node modules.
-If you have Mongo, type mongod to initiate MongoDB.
-On another tab of your console, start nodemon to start the server and complete back end initiation.
+* Create a respository on your local storage.
+* Git Clone partiestbackend to the respository and cd into it.
+* Initiate npm install to install node modules.
+* If you have Mongo, type mongod to initiate MongoDB.
+* On another tab of your console, start nodemon to start the server and complete back end initiation.
 
 - Front-End
-Create another respository.
-Git clone paritestfrontend.
-While running backend on another tab, type server to initiate http server.  
-Run Front-End
+* Create another respository.
+* Git clone paritestfrontend.
+* While running backend on another tab, type server to initiate http server.  
+* Run Front-End
 
 ### Unsolved Problems
 While initiating show html, there is failed to execute 'querySelector'.  It does not disrupt showing google maps, but cannot figure out exactly what causing the problem.
