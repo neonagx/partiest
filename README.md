@@ -27,14 +27,14 @@ First comes the planning phase where I would write the overall model along with 
 ![ERD](assets/ERD.png)
 
 ### Technologies Used
-Angular Material - A built-in angular styling for overall site design.
-MongoDB - Used to store database for back-end and front end.
-Express - A modern framework that is used to build MVC structure.
-Angular - A google framework that organize and structure this application.
-NodeJS - A tool to run Javascript on the server end.
-ng-Map - A Google Map API that allows users to use google maps on Angular JS.
-JWTs - Allows user to store local token and authenticate their token to access the content of this application.
-Postman - A program that allows testing of CRUD on the back-end.
+* Angular Material - A built-in angular styling for overall site design.
+* MongoDB - Used to store database for back-end and front end.
+* Express - A modern framework that is used to build MVC structure.
+* Angular - A google framework that organize and structure this application.
+* NodeJS - A tool to run Javascript on the server end.
+* ng-Map - A Google Map API that allows users to use google maps on Angular JS.
+* JWTs - Allows user to store local token and authenticate their token to access the content of this application.
+* Postman - A program that allows testing of CRUD on the back-end.
 
 ### Installation Instructions
 - Back-End
